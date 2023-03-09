@@ -1,2 +1,2 @@
-# tecnolavi.github.io
+# TecnOlavi.com
 TecnOlavi's Laning Page
